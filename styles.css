@@ -6,6 +6,8 @@ h1 {
 
 .DexterWidget--HVqxk .MessagePanel-header--VPTA5 h1 { color: #000 !important; } 
 
+.DexterWidget--HVqxk .MessagePanel-message--user--1EBT8 { background-color: #000 !important; }
+
 @media only screen and (max-width: 600px) {
   #DexterWebWidget .DexterWebWidget-toggle { display: none !important; }
   .DexterMessagePanel-header-closeIcon svg { display: none; }
