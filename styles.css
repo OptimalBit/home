@@ -4,9 +4,9 @@ h1 {
 
 #DexterWebWidget .DexterWebWidget-toggle { display: none !important; }
 
-.DexterWidget--HVqxk .MessagePanel-header--VPTA5 h1 { color: #000 !important; } 
+.DexterWidget--HVqxk .MessagePanel-header--VPTA5 h1 { color: #832a2b !important; } 
 
-.DexterWidget--HVqxk .MessagePanel-message--user--1EBT8 { background-color: #000 !important; }
+.DexterWidget--HVqxk .MessagePanel-message--user--1EBT8 { background-color: #832a2b !important; }
 
 @media only screen and (max-width: 600px) {
   #DexterWebWidget .DexterWebWidget-toggle { display: none !important; }
