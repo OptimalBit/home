@@ -4,7 +4,10 @@ h1 {
 
 #DexterWebWidget .DexterWebWidget-toggle { display: none !important; }
 
-.DexterWidget--HVqxk .MessagePanel-header--VPTA5 h1 { color: #832a2b !important; } 
+.DexterWidget--HVqxk .MessagePanel-header--VPTA5 h1 { 
+  color: #832a2b !important;
+  font-weight: bold;
+} 
 
 .DexterWidget--HVqxk .MessagePanel-message--user--1EBT8 { background-color: #832a2b !important; }
 
