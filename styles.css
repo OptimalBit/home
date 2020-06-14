@@ -5,6 +5,6 @@ h1 {
 #DexterWebWidget .DexterWebWidget-toggle { display: none !important; }
 
 @media only screen and (max-width: 600px) {
-/*   #DexterWebWidget .DexterWebWidget-toggle { display: none !important; } */
-  svg { display: none; }
+  #DexterWebWidget .DexterWebWidget-toggle { display: none !important; }
+/*   svg { display: none; } */
 }
