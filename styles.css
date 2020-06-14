@@ -2,6 +2,8 @@ h1 {
   color: blue;
 }
 
+body { background-color: #832a2b; }
+
 #DexterWebWidget .DexterWebWidget-toggle { display: none !important; }
 
 .DexterWidget--HVqxk .MessagePanel-header--VPTA5 h1 { 
